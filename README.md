@@ -247,7 +247,7 @@ _Best-of lists about cryptocurrencies, bitcoin, ethereum, or other topics relate
 </details>
 <details><summary><b><a href="https://github.com/jinningwang/best-of-ps">best-of-ps</a></b> (🥉6 ·  ⭐ 24) - A weekly updated ranked list of popular open-source libraries and tools for..</summary>
 
-- [GitHub](https://github.com/jinningwang/best-of-ps) (👨‍💻 9 · 🔀 1):
+- [GitHub](https://github.com/jinningwang/best-of-ps) (👨‍💻 7 · 🔀 1):
 
 	```
 	git clone https://github.com/jinningwang/best-of-ps
